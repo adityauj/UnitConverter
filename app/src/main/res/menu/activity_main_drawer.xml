@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/area"
+        android:icon="@mipmap/ic_area"
+        android:title="Area"></item>
+
+    <item
+        android:id="@+id/digital_storage"
+        android:icon="@mipmap/ic_storage"
+        android:title="Digital Storage"></item>
+
+    <item
+        android:id="@+id/energy"
+        android:icon="@mipmap/ic_energy"
+        android:title="Energy"></item>
+
+    <item
+        android:id="@+id/length"
+        android:icon="@mipmap/ic_length"
+        android:title="Length/Distance"></item>
+
+    <item
+        android:id="@+id/mass"
+        android:icon="@mipmap/ic_mass"
+        android:title="Mass/Weight"></item>
+
+    <item
+        android:id="@+id/power"
+        android:icon="@mipmap/ic_power"
+        android:title="Power"></item>
+
+    <item
+        android:id="@+id/speed"
+        android:icon="@mipmap/ic_speed"
+        android:title="Speed"></item>
+
+    <item
+        android:id="@+id/tempreture"
+        android:icon="@mipmap/ic_temperature"
+        android:title="Tempreture"></item>
+
+
+    <item
+        android:id="@+id/volume"
+        android:icon="@mipmap/ic_volume"
+        android:title="Volume"></item>
+</group>
+
+    <item android:id="@+id/help"
+        android:title="Help">
+
+         </item>
+
+</menu>

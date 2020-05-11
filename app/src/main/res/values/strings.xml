@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_help">Help</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Area -->
+    <string-array name="area">
+        <item name="sq_kilometre">Sq Kilometre</item>
+        <item name="sq_metre">Sq Metre</item>
+        <item name="sq_centimetre">Sq Centimetre</item>
+        <item name="hectare">Hectare</item>
+        <item name="sq_mile">Sq Mile</item>
+        <item name="sq_foot">Sq Foot</item>
+        <item name="sq_inch">Sq Inch</item>
+        <item name="acre">Acre</item>
+    </string-array>
+
+    <!-- Digital Storage -->
+    <string-array name="storage">
+        <item name="bit">Bit</item>
+        <item name="Byte">Byte</item>
+        <item name="kilobit">Kilobit</item>
+        <item name="kilobyte">Kilobyte</item>
+        <item name="megabit">Megabit</item>
+        <item name="megabyte">Megabyte</item>
+        <item name="gigabit">Gigabit</item>
+        <item name="gigabyte">Gigabyte</item>
+        <item name="terabit">Terabit</item>
+        <item name="terabyte">Terabyte</item>
+    </string-array>
+
+    <!-- Energy -->
+    <string-array name="energy">
+        <item name="joule">Joule</item>
+        <item name="kilojoule">Kilojoule</item>
+        <item name="calorie">Calorie</item>
+        <item name="kilocalorie">Kilocalorie</item>
+        <item name="btu">BTU</item>
+        <item name="kilowatt_hour">Kilowatt-Hour</item>
+    </string-array>
+
+    <!-- Distance -->
+    <string-array name="length">
+        <item name="kilometre">Kilometre</item>
+        <item name="mile">Miles</item>
+        <item name="metre">Metre</item>
+        <item name="centimetre">Centimetre (cm)</item>
+        <item name="millimetre">Millimetre (mm)</item>
+        <item name="micrometre">Micrometre</item>
+        <item name="nanometre">Nanometre</item>
+        <item name="yard">Yard</item>
+        <item name="feet">Feet</item>
+        <item name="inch">Inch</item>
+        <item name="nautical_mile">Nautical Mile</item>
+    </string-array>
+
+    <!-- Mass/Weight -->
+    <string-array name="mass">
+        <item name="kilogram">Kilogram</item>
+        <item name="pound">Pound</item>
+        <item name="gram">Gram</item>
+        <item name="milligram">Milligram</item>
+        <item name="grain">Grain</item>
+        <item name="stone">Stone</item>
+        <item name="short_ton">Ton (US/short)</item>
+        <item name="long_ton">Ton (UK/long)</item>
+    </string-array>
+
+    <!-- Power -->
+    <string-array name="power">
+        <item name="watt">Watt</item>
+        <item name="kilowatt">Kilowatt</item>
+        <item name="megawatt">Megawatt</item>
+        <item name="hp">HP (metric)</item>
+    </string-array>
+
+    <!-- Speed -->
+    <string-array name="speed">
+        <item name="km_h">Kilometre/hour</item>
+        <item name="mph">Mile/hour</item>
+        <item name="m_s">Metre/second</item>
+        <item name="fps">Foot/second</item>
+        <item name="knot">Knot</item>
+    </string-array>
+
+    <!-- Temperature -->
+    <string-array name="temperature">
+        <item name="celsius">Celsius</item>
+        <item name="fahrenheit">Fahrenheit</item>
+        <item name="kelvin">Kelvin</item>
+    </string-array>
+
+    <!-- Volume -->
+    <string-array name="volume">
+        <item name="teaspoon">Teaspoon</item>
+        <item name="tablespoon">Tablespoon</item>
+        <item name="cup">Cup</item>
+        <item name="gallon">Gallon (US)</item>
+        <item name="millilitre">Millilitre</item>
+        <item name="litre">Litre</item>
+        <item name="cubic_cm">Cubic cm</item>
+        <item name="cubic_m">Cubic Metre</item>
+        <item name="cubic_inch">Cubic Inch</item>
+        <item name="cubic_foot">Cubic Foot</item>
+        <item name="cubic_yard">Cubic Yard</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/introduction"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.mesconverter.MainActivity"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unit Converter"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="20dp"
+        android:textSize="35dp"
+        />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="            Unit Converter is a simple and basic app designed to ease the conversion work of a needy person. All the basic units that we use in our daily life are present and ready to provide you accurate results. Various categories in application are : "
+        android:textSize="20dp"
+        android:layout_below="@+id/appName"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:id="@+id/information"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:id="@+id/contents"
+        android:layout_below="@+id/information"
+        android:paddingTop="10dp"
+        android:text="1. Area\n2. Digital Storage\n3. Energy\n4. Length/Distance\n5. Mass/Weight\n6. Power\n7. Speed\n8. Tempreture\n9. Volume"/>
+
+    </RelativeLayout>
+</FrameLayout>
